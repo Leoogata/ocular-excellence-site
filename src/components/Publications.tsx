@@ -4,22 +4,22 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 
 const publications = [
   {
-    title: "[Título do Artigo Publicado 1]",
-    journal: "[Nome da Revista/Journal]",
-    year: "[Ano]",
-    link: "https://scholar.google.com",
+    title: "Visual Crowding in Glaucoma",
+    journal: "IOVS - Investigative Ophthalmology & Visual Science",
+    year: "2019",
+    link: "https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=-E1DW2oAAAAJ&citation_for_view=-E1DW2oAAAAJ:Zph67rFs4hoC",
   },
   {
-    title: "[Título do Artigo Publicado 2]",
-    journal: "[Nome da Revista/Journal]",
-    year: "[Ano]",
-    link: "https://scholar.google.com",
+    title: "Mobile Telephone Use and Reaction Time in Drivers With Glaucoma",
+    journal: "JAMA Network Open",
+    year: "2019",
+    link: "https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=-E1DW2oAAAAJ&citation_for_view=-E1DW2oAAAAJ:eQOLeE2rZwMC",
   },
   {
-    title: "[Título do Artigo Publicado 3]",
-    journal: "[Nome da Revista/Journal]",
-    year: "[Ano]",
-    link: "https://scholar.google.com",
+    title: "Performance na condução de automóvel por pacientes portadores de glaucoma primário de ângulo aberto: atenção dividida e discriminação de objetos",
+    journal: "Universidade de São Paulo",
+    year: "2020",
+    link: "https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=-E1DW2oAAAAJ&citation_for_view=-E1DW2oAAAAJ:M3ejUd6NZC8C",
   },
 ];
 
@@ -79,7 +79,7 @@ const Publications = () => {
         <div className="text-center">
           <Button variant="outline" size="lg" asChild>
             <a 
-              href="https://scholar.google.com" 
+              href="https://scholar.google.com.br/citations?user=-E1DW2oAAAAJ&hl=pt-BR&oi=sra" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-2"

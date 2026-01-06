@@ -6,21 +6,15 @@ const About = () => {
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           {/* Image Placeholder */}
-          <div className="relative order-2 lg:order-1">
-            <div className="aspect-[4/5] rounded-2xl bg-muted overflow-hidden shadow-card">
-              <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-primary/5">
-                <div className="text-center p-8">
-                  <User className="h-24 w-24 text-primary/40 mx-auto mb-4" />
-                  <p className="text-muted-foreground text-sm">
-                    [Foto da Dra. Nara Ogata]
-                  </p>
-                </div>
+            <div className="relative order-2 lg:order-1">
+              <div className="aspect-[4/6] rounded-2xl bg-muted overflow-hidden shadow-card">
+                <img
+                  src="/ocular-excellence-site/images/nara-ogata.jpeg"
+                  alt="Foto da Dra. Nara Ogata"
+                  className="w-full h-full object-cover"
+                />
               </div>
             </div>
-            {/* Decorative accent */}
-            <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-primary/20 rounded-2xl -z-10" />
-          </div>
-
           {/* Content */}
           <div className="order-1 lg:order-2">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-secondary text-primary text-sm font-medium mb-6">

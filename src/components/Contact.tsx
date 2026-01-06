@@ -25,7 +25,7 @@ const Contact = () => {
                 <Phone className="h-5 w-5" />
                 <span className="flex flex-col items-start">
                   <span className="text-xs opacity-80">Telefone</span>
-                  <span>(11) 99999-9999</span>
+                  <span>(11) 95573-2340</span>
                 </span>
               </a>
             </Button>
@@ -40,7 +40,7 @@ const Contact = () => {
                 <MessageCircle className="h-5 w-5" />
                 <span className="flex flex-col items-start">
                   <span className="text-xs opacity-80">WhatsApp</span>
-                  <span>(11) 99999-9999</span>
+                  <span>(11) 91683-6347</span>
                 </span>
               </a>
             </Button>

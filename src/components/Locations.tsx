@@ -4,20 +4,20 @@ import { Button } from "@/components/ui/button";
 
 const locations = [
   {
-    name: "[Nome da Clínica/Hospital 1]",
-    address: "[Endereço completo - Rua, número, bairro]",
-    city: "[Cidade - SP]",
-    phone: "(11) 99999-9999",
+    name: "Consultório Butantã",
+    address: "Av Vital Brasil, 305 - Butantã",
+    city: "São Paulo - SP",
+    phone: "(11) 95573-2340",
     hours: "[Dias e horários de atendimento]",
-    mapLink: "https://maps.google.com",
+    mapLink: "https://www.google.com/maps/place/Av.+Vital+Brasil,+305+-+sala+1211+-+Butant%C3%A3,+S%C3%A3o+Paulo+-+SP,+05503-001/@-23.5717198,-46.7072639,15z/data=!4m16!1m9!3m8!1s0x94ce57aaf2075e51:0x1f5fdd0f231cd0d1!2sAv.+Vital+Brasil,+305+-+sala+1211+-+Butant%C3%A3,+S%C3%A3o+Paulo+-+SP,+05503-001!3b1!8m2!3d-23.5719165!4d-46.7073591!10e5!16s%2Fg%2F11qp_1k4mf!3m5!1s0x94ce57aaf2075e51:0x1f5fdd0f231cd0d1!8m2!3d-23.5719165!4d-46.7073591!16s%2Fg%2F11qp_1k4mf?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
   },
   {
-    name: "[Nome da Clínica/Hospital 2]",
-    address: "[Endereço completo - Rua, número, bairro]",
-    city: "[Cidade - SP]",
-    phone: "(11) 99999-9999",
+    name: "Consultório Moema",
+    address: "Alameda dos Nhambiquaras, 156 - Moema",
+    city: "São Paulo - SP",
+    phone: "(11) 95573-2340",
     hours: "[Dias e horários de atendimento]",
-    mapLink: "https://maps.google.com",
+    mapLink: "https://www.google.com/maps/place/Alameda+dos+Nhambiquaras,+156+-+Moema,+S%C3%A3o+Paulo+-+SP,+04090-000/@-23.6019372,-46.6545059,15z/data=!4m16!1m9!3m8!1s0x94ce5a19c0de9c91:0x84a82861d62ea825!2sAlameda+dos+Nhambiquaras,+156+-+Moema,+S%C3%A3o+Paulo+-+SP,+04090-000!3b1!8m2!3d-23.6017592!4d-46.6546063!10e5!16s%2Fg%2F11snnxxq47!3m5!1s0x94ce5a19c0de9c91:0x84a82861d62ea825!8m2!3d-23.6017592!4d-46.6546063!16s%2Fg%2F11snnxxq47?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
   },
 ];
 
