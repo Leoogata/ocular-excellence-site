@@ -53,7 +53,7 @@ const Contact = () => {
               className="flex items-center gap-2 text-brand-white/70 hover:text-brand-green transition-colors"
             >
               <Mail className="h-5 w-5" />
-              <span className="hidden sm:inline">[email@placeholder.com]</span>
+              <span className="hidden sm:inline">naraogata@gmail.com</span>
             </a>
             <a 
               href="https://instagram.com"
@@ -62,7 +62,7 @@ const Contact = () => {
               className="flex items-center gap-2 text-brand-white/70 hover:text-brand-green transition-colors"
             >
               <Instagram className="h-5 w-5" />
-              <span className="hidden sm:inline">@naraogata</span>
+              <span className="hidden sm:inline">@dranaraogata</span>
             </a>
           </div>
         </div>
