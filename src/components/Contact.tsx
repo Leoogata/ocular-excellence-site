@@ -56,7 +56,7 @@ const Contact = () => {
               <span className="hidden sm:inline">naraogata@gmail.com</span>
             </a>
             <a 
-              href="https://instagram.com"
+              href="https://www.instagram.com/dranaraogata/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-brand-white/70 hover:text-brand-green transition-colors"
